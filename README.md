@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Samuel Oluwafemi Soaga
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning advanced javascript
+- 👋 Hi, I’m Oluwafemi Samuel Soaga
+- 👀 I’m interested in Software Development and DevOps Engineering
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/samuel-soaga-56875999/ on linkedin
 
